@@ -6,16 +6,16 @@ public class Student2 {
 	
 	double sum = 0;
 	
-	public void plus() {
-		for( int subject :scores) {
-			sum += subject;
-			System.out.println("合計：" + sum);
-		}
-	
-	public void ave() {
-		double avera = sum / scores.length;
-		System.out.println("平均：" + avera);
-	}
+//	public void plus() {
+//		for( int subject :scores) {
+//			sum += subject;
+//			System.out.println("合計：" + sum);
+//		}
+//	
+//	public void ave() {
+//		double avera = sum / scores.length;
+//		System.out.println("平均：" + avera);
+//	}
 		
 		
 }
